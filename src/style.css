@@ -1,0 +1,15 @@
+.card{ 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(23, 119, 143);
+    text-align: center;
+    background-color: rgb(237, 238, 238);
+    box-shadow: rgb(18, 22, 24);
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .adress{
+      color: rgb(11, 8, 150);
+      box-shadow: rgb(2, 2, 2);
+
+  }
+ 
